@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Cyriel_Buysse
     - http://nl.wikipedia.org/wiki/Cyriel_Buysse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18793#Broeder-en-Zuster
 gutenberg_issued: '2006-07-08'
 gutenberg_type: Text
 identifiers:
